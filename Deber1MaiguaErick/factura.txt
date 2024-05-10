@@ -1,0 +1,9 @@
+----------------------Factura----------------------
+Cliente: ñ
+Cedula: 1
+Producto: PlayStation 5
+Categoria: A
+Precio Unitario: $499.99
+Descuento: 10.0%
+Cantidad: 2
+Total a Pagar: $899.981982421875

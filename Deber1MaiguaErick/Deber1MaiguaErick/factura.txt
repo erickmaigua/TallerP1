@@ -1,0 +1,9 @@
+----------------------Factura----------------------
+Cliente: Erick
+Cedula: 123456789
+Producto: Xbox Series X
+Categoria: A
+Precio Unitario: $499.99
+Descuento: 10.0%
+Cantidad: 3
+Total a Pagar: $1349.9729736328125
